@@ -1,0 +1,10 @@
+
+
+/*
+nav input[type=checkbox]:checked ~ ul.menu {
+    display: block;
+}
+nav input[type=checkbox] {
+    display: none;
+}
+*/
